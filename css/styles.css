@@ -21,7 +21,7 @@ body {
 }
 
 .bg1 {
-  background-image: url("../../V&I/images/bg.png");
+  background-image: url("https://fortuneatlas.github.io/sikiruadepoju/images/bg.png");
   color: black;
   background-size: cover;
   background-color: #f8f8fa;
@@ -31,7 +31,7 @@ body {
 
 @media (max-width: 720px) {
   .bg1 {
-    background-image: url("../../V&I/images/bg2.png");
+    background-image: url("https://fortuneatlas.github.io/sikiruadepoju/images/bg2.png");
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;
